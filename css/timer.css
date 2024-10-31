@@ -1,0 +1,32 @@
+#timer{
+	position:relative;
+}
+.cntSeparator {
+	font-size: 1px;
+	color: #000;
+	height:100%;
+	padding:0 5px;
+	margin:0;
+	background:url(../img/separator-02.png) no-repeat;
+}
+.order-block .cntSeparator{
+	background:none;
+	padding:0 0 0 21px;
+}
+.desc { 
+	margin:0px 0 0 50px;
+	color: #6b767f;
+	overflow: hidden;
+}
+.desc div {
+	float: left;
+	font-family: Arial;
+	width: 97px;
+	margin-right: 25px;
+	font-size: 13px;
+	font-weight: bold;
+	text-align:center;
+}
+.desc div:last-child{
+	margin-right: 0px;
+}
