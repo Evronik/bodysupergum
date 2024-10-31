@@ -1,5 +1,5 @@
 # HTML лендинг «жевательная резинка для похудения BoomBody»
-## _Скоптирован мной из интернета и переделан под запрос заказчика_  
+## _Скопирован мной из интернета и переделан под запрос заказчика_  
 
 [![N|Solid](https://evronik.github.io/bodysupergum/bodysupergum.jpg)](https://evronik.github.io/bodysupergum/)
 
